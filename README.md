@@ -25,8 +25,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: (https://github.com/Junbol-Frontend-Mentor/news-homepage)
-- Live Site URL: (https://junbol-frontend-mentor.github.io/news-homepage/)
+- Solution URL: (https://github.com/Junbol-Frontend-Mentor/advice-generator-react-app-main)
+- Live Site URL: (https://junbol-frontend-mentor.github.io/advice-generator-react-app-main/)
 
 ## My process
 
