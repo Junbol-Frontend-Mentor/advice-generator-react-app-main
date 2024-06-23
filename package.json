@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/advice-generator-react-app-main",
+  "homepage": "https://junbol-frontend-mentor.github.io/advice-generator-react-app-main/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -33,5 +33,3 @@
     "gh-pages": "^5.0.0"
   }
 }
-
-
