@@ -6,10 +6,14 @@ const theme = extendTheme({
     global: {
       'html, body, #root': {
         height: '100%',
+        display:'flex',
+        flexDirection:'column',
         margin: 0,
         padding: 0,
         boxSizing: 'border-box',
-        backgroundColor: 'black',
+        backgroundColor:'black',
+        alignItems:  'center',
+        justifyContent: 'flex-start',
         fontFamily: 'Manrope, system-ui, sans-serif', // Use the Manrope font
       },
       body: {
@@ -24,6 +28,3 @@ const theme = extendTheme({
 });
 
 export default theme;
-
-
-

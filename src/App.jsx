@@ -25,10 +25,10 @@ function App() {
   return (
     <>
       <Flex
+        width="100%"
         height="100vh" // Full viewport height
-        justifyContent="center" // Center children horizontally
-        alignItems="center" // Center children vertically
         flexDirection="column" // Arrange children in a column
+        alignItems="center" // Center children vertically
         padding="2rem"
         bg="black" // Set background color for clarity
       >
