@@ -40,6 +40,7 @@ function App() {
           flexDirection="column" // Arrange children in a column
           borderRadius="10px"
           padding="2rem"
+          mb="5rem"
           bg="hsl(217, 19%, 38%)" // Set background color for clarity
         >
           <Box width="100%" height="3rem" textAlign="center" textColor="hsl(150, 100%, 66%)" mb="2rem" fontSize="2rem" fontWeight={800}>
